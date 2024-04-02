@@ -16,7 +16,7 @@ For example, if the user enters the word, 'arm,' the return display would look s
             W O R D           |        K E Y W O R D              |                   S O U R C E                                                
          ____________         |      ______________________       |        ______________________________________
                               |                                   |                       
-              arm             |       might/ strength             |      Luke 1:51  "He has performed mighty deeds with His arm."
+              arm             |       deed/ action                |      Luke 1:51  "He has performed mighty deeds with His arm."
 #
 ### Project Outlook:
 #
